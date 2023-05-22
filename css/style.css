@@ -1,0 +1,27 @@
+
+*{
+    margin:10px 0;
+}
+
+nav{
+-webkit-box-shadow: -2px -4px 43px 4px rgba(128,128,128,1);
+-moz-box-shadow: -2px -4px 43px 4px rgba(128,128,128,1);
+box-shadow: -2px -4px 43px 4px rgba(128,128,128,1);
+padding: 5px;
+}
+.item{
+    text-decoration: none;
+    padding: 20px 40px;
+    font-weight: 800;
+}
+.padreImagen{
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+}
+.imghijo{
+    height: 100%;
+    width: 100%;
+}
+
+
